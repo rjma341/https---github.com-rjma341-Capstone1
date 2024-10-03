@@ -36,4 +36,6 @@ border-color: green;
   .navcolor:hover{
     color: green !important;
   }
-  
+  .totalnum{
+    color: rgb(119, 193, 85);
+  }
