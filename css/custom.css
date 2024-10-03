@@ -4,16 +4,17 @@
 }
 .btn{
     border-color: green;
+    color: 
 }
 .nav-link{
     color: rgba(17, 92, 17, 0.635);
 }
 .btn-primary{
-    background-color: rgb(25, 125, 25);
+    background-color: rgb(25, 125, 25) !important;
 }
 .loginbtn{
-    border-color: green;
-    color: green;
+    border-color: green !important;
+    color: green !important;
     
 }
 .btn-primary:hover,.btn:hover, .btn:active{
@@ -28,7 +29,7 @@ border-color: green;
   .btn:hover,.btn:focus{
     background-color: rgb(33, 66, 22) !important;
     color: #fff !important;
-    border-color: green;
+    border-color: green !important;
     color: white;
     
   }
