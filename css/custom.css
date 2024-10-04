@@ -4,8 +4,7 @@
 }
 .btn{
     border-color: green;
-    color: 
-}
+    }
 .nav-link{
     color: rgba(17, 92, 17, 0.635);
 }
@@ -38,4 +37,7 @@ border-color: green;
   }
   .totalnum{
     color: rgb(119, 193, 85);
+  }
+  .abouttext{
+    color: rgb(46, 93, 46);
   }
